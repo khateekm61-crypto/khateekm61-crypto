@@ -47,16 +47,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🎮 Number Guessing Game | Beginner Python project |
-| 🧮 Calculator App | Simple calculator using Python |
-| 📊 NumPy Data Analysis Project | Data analysis using NumPy |
-| 📝 Python Cheat Sheet | 43-page Jupyter Notebook guide |
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -109,7 +99,4 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-```txt
-Ye section baad me add karenge jab repositories aur commits badh jayenge 😄
